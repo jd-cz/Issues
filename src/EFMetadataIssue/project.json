@@ -1,0 +1,21 @@
+﻿{
+  "version": "1.0.0-*",
+  "description": "EFMetadataIssue Console Application",
+  "authors": [ "jd-cz" ],
+  "tags": [ "" ],
+  "projectUrl": "",
+  "licenseUrl": "",
+
+    "dependencies": {
+        "EntityFramework.SqlServer": "7.0.0-beta8",
+        "EntityFramework.Core": "7.0.0-beta8"
+    },
+
+  "commands": {
+    "EFMetadataIssue": "EFMetadataIssue"
+  },
+
+  "frameworks": {
+    "dnx451": { }
+  }
+}
